@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Proxima Nova";
-    src: url(/furniture-test/fonts/ProximaNova-Regular.ttf);
+    src: url(/fonts/ProximaNova-Regular.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: "Proxima Nova";
-    src: url(/furniture-test/fonts/ProximaNova-Bold.ttf);
+    src: url(/fonts/ProximaNova-Bold.ttf);
     font-weight: 700;
 }
 
@@ -204,7 +204,7 @@
 /* SLIDER ========================================================================== */
 
 .slider {
-    background-image: url('/furniture-test/images/images/wallpaper.png');
+    background-image: url('/images/images/wallpaper.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -293,7 +293,7 @@
 }
 
 .arrow__left {
-    background-image: url('/furniture-test/images/icons/Arrow\ Left.svg');
+    background-image: url('/images/icons/Arrow\ Left.svg');
     background-repeat: no-repeat;
     width: 8px;
     height: 12px;
@@ -311,7 +311,7 @@
 }
 
 .arrow__right {
-    background-image: url('/furniture-test/images/icons/Arrow\ Right.svg');
+    background-image: url('/images/icons/Arrow\ Right.svg');
     background-repeat: no-repeat;
     width: 7px;
     height: 12px;
@@ -366,15 +366,15 @@
 }
 
 .grid__item__1 {
-    background-image: url('/furniture-test/images/images/Rectangle\ 169.png');
+    background-image: url('/images/images/Rectangle\ 169.png');
 }
 
 .grid__item__2 {
-    background-image: url('/furniture-test/images/images/Rectangle\ 172.png');
+    background-image: url('/images/images/Rectangle\ 172.png');
 }
 
 .grid__item__3 {
-    background-image: url('/furniture-test/images/images/Rectangle\ 170.png');
+    background-image: url('/images/images/Rectangle\ 170.png');
 }
 
 .item__link {
@@ -514,22 +514,22 @@
 }
 
 .element__img__1 {
-    background-image: url('/furniture-test/images/categories-icons/living-room\ 1.svg');
+    background-image: url('/images/categories-icons/living-room\ 1.svg');
 }
 .element__img__2 {
-    background-image: url('/furniture-test/images/categories-icons/bedroom\ 2.svg');
+    background-image: url('/images/categories-icons/bedroom\ 2.svg');
 }
 .element__img__3 {
-    background-image: url('/furniture-test/images/categories-icons/armchair\ 2.svg');
+    background-image: url('/images/categories-icons/armchair\ 2.svg');
 }
 .element__img__4 {
-    background-image: url('/furniture-test/images/categories-icons/wardrobe\ 1.svg');
+    background-image: url('/images/categories-icons/wardrobe\ 1.svg');
 }
 .element__img__5 {
-    background-image: url('/furniture-test/images/categories-icons/wardrobe\ \(1\)\ 2.svg');
+    background-image: url('/images/categories-icons/wardrobe\ \(1\)\ 2.svg');
 }
 .element__img__6 {
-    background-image: url('/furniture-test/images/categories-icons//kitchen\ 2.svg');
+    background-image: url('/images/categories-icons//kitchen\ 2.svg');
 }
 
 .element__link {
@@ -576,22 +576,22 @@
 }
 
 .element__image1 {
-    background-image: url('/furniture-test/images/merchandise-images/1.jpg');
+    background-image: url('/images/merchandise-images/1.jpg');
 }
 .element__image2 {
-    background-image: url('/furniture-test/images/merchandise-images/2.jpg');
+    background-image: url('/images/merchandise-images/2.jpg');
 }
 .element__image3 {
-    background-image: url('/furniture-test/images/merchandise-images/3.jpg');
+    background-image: url('/images/merchandise-images/3.jpg');
 }
 .element__image4 {
-    background-image: url('/furniture-test/images/merchandise-images/4.jpg');
+    background-image: url('/images/merchandise-images/4.jpg');
 }
 .element__image5 {
-    background-image: url('/furniture-test/images/merchandise-images/5.jpg');
+    background-image: url('/images/merchandise-images/5.jpg');
 }
 .element__image6 {
-    background-image: url('/furniture-test/images/merchandise-images/6.jpg');
+    background-image: url('/images/merchandise-images/6.jpg');
 }
 
 .element__description {
@@ -698,7 +698,7 @@
 }
 
 .information__image {
-    background-image: url('/furniture-test/images/images/Rectangle\ 200.png');
+    background-image: url('/images/images/Rectangle\ 200.png');
     height: 675px;
     width: 100%;
     background-repeat: no-repeat;
@@ -737,7 +737,7 @@
 }
 
 .form__image {
-    background-image: url('/furniture-test/images/images/Rectangle\ 201.png');
+    background-image: url('/images/images/Rectangle\ 201.png');
     height: 675px;
     width: 100%;
     background-repeat: no-repeat;
@@ -825,7 +825,7 @@
 }
 
 .footer__right {
-    background-image: url('/furniture-test/images/images/footer.png');
+    background-image: url('/images/images/footer.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 55%;
@@ -882,13 +882,13 @@
 }
 
 .location__icon {
-    background-image: url('/furniture-test/images/icons/map-pin.svg');
+    background-image: url('/images/icons/map-pin.svg');
 }
 .work__hours__icon {
-    background-image: url('/furniture-test/images/icons/calendar.svg');
+    background-image: url('/images/icons/calendar.svg');
 }
 .phone__icon {
-    background-image: url('/furniture-test/images/icons/smartphone\ 1.svg');
+    background-image: url('/images/icons/smartphone\ 1.svg');
 }
 
 .footer__location, .footer__work__hours, .footer__phones {
@@ -933,13 +933,13 @@
 }
 
 .link__icon__tg {
-    background-image: url('/furniture-test/images/Social/tg.svg');
+    background-image: url('/images/Social/tg.svg');
 }
 .link__icon__fb {
-    background-image: url('/furniture-test/images/Social/fb.svg');
+    background-image: url('/images/Social/fb.svg');
 }
 .link__icon__ig {
-    background-image: url('/furniture-test/images/Social/ig.svg');
+    background-image: url('/images/Social/ig.svg');
 }
 
 .company__name {
@@ -951,7 +951,7 @@
 .company__img {
     width: 21px;
     height: 21px;
-    background-image: url('/furniture-test/images/company__logo.svg');
+    background-image: url('/images/company__logo.svg');
     background-size: cover;
     background-repeat: no-repeat;
 }
