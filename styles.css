@@ -1118,4 +1118,16 @@
         display: flex;
         flex-direction: column;
     }
+    
+    .call__btn {
+        display: none;
+    }
+
+    .footer__logo {
+        max-width: 200px;
+    }
+
+    .footer__logo > img {
+        max-width: 200px;
+    }
 }
